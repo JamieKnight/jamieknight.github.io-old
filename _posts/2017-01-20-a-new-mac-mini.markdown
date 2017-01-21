@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A new Mac Mini
 category: Apple
 
